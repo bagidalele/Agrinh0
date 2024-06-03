@@ -1,0 +1,30 @@
+
+body{
+
+
+    text-align: center;
+display: block;
+margin: 0;
+padding: 70px 0;
+background-image: url(Alimentos\ Orgânicos.jpg);
+background-size:cover;
+font-family: "Assistant", sans-serif;
+}
+
+button{
+margin: 30px;
+height: 100px;
+width: 200px;
+align-items: center;
+text-align: center;border-radius: 10px;
+font-size: large;
+border-color: rgb(14, 143, 14);
+border-width: 5px;
+}
+h1{
+font-size: xx-large;
+
+}
+div{
+    text-align: center;
+}

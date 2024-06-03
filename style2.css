@@ -1,21 +1,26 @@
-
 body{
 
-    background-image: url(Alimentos\ Orgânicos1.jpg);
+    background-image: url(Alimentos\ Orgânicos2.jpg);
+    
 display: block;
 margin: 0;
 padding: 70px 0;
 font-size: larger;
-background-size:cover;
+background-size:auto;
+color: black;
 font-family: "Assistant", sans-serif;
+}
+div{
+    text-align: center;
 }
 
 button{
         margin: 30px;
         height: 50px;
         width: 70px;
+        text-align: center;
         align-items: center;
-        text-align: center;border-radius: 10px;
+        border-radius: 10px;
         font-size: large;
         border-color: rgb(14, 143, 14);
         border-width: 5px;
@@ -23,8 +28,4 @@ button{
 h1{
 font-size: xx-large;
 text-align: center;
-
-}
-div{
-    text-align: center;
 }
